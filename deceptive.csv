@@ -1,0 +1,44 @@
+Category,Subcategory,Tactic,Description
+Sneaking,Bait and Switch,Disguised Ads,Styles ads to look like interface elements leading users to interact with them unwittingly.
+Sneaking,Bait and Switch,Disguised Sign-up,Disguised Sign-up uses Sneaking and Bait and Switch to pre-check and hide sign-up options in a bigger process. As a result users do not only complete their intended action (e.g. check-out process) but also unintentionally sign-up to a product or service.
+Sneaking,Hiding Information,Sneak into Basket,Adds unwanted items to a shopping cart without the user's consent.
+Sneaking,Hiding Information,Drip Pricing Hidden Costs or Partitioned Pricing,Reveals additional costs late in the user journey misleading users about total price.
+Sneaking,Hiding Information,Reference Pricing,Presents misleading discounts by inflating the original price.
+Sneaking,(De)contextualizing Cues,Conflicting Information,Presents conflicting information causing confusion and making users accept defaults.
+Sneaking,(De)contextualizing Cues,Information without Context,Hides or alters relevant information making it difficult for users to find important details.
+Obstruction,Roach Motel,Immortal Accounts,Makes it difficult or impossible to delete an account.
+Obstruction,Roach Motel,Dead Ends,Uses inactive links or redirections to prevent access to information.
+Obstruction,Creating Barriers,Price Comparison Prevention,Limits users' ability to compare prices.
+Obstruction,Creating Barriers,Intermediate Currencies,Hides the true cost by requiring purchases in virtual currency.
+Obstruction,Creating Barriers,Fake Data Comparison,Fake Data Comparison uses Obstruction and Creating Barriers to fabricate product comparisons. As a result users might think they chose the best product but potentially select the one the shop owner wants to sell.
+Obstruction,Adding Steps,Privacy Mazes,Requires users to navigate excessive pages to access privacy settings.
+Interface Interference,Manipulating Visual Choice Architecture,False Hierarchy,Gives certain options visual prominence over others misleading user choices.
+Interface Interference,Manipulating Visual Choice Architecture,Visual Prominence,Places distracting elements near important actions steering users away from their intent.
+Interface Interference,Manipulating Visual Choice Architecture,Bundling,Groups multiple products/services together making it unclear if they can be purchased separately.
+Interface Interference,Manipulating Visual Choice Architecture,Pressured Selling,Uses preselection and visual emphasis to push more expensive options.
+Interface Interference,Manipulating Choice Architecture,First Place Positioning,First Place Positioning uses Interface Interference and Manipulating Choice Architecture to prominently position certain products in the first place of a web-page. As a result some products are more prominent than others to make users chose those.
+Interface Interference,Bad Defaults,Bad Defaults,Sets harmful or disadvantageous defaults requiring active changes.
+Interface Interference,Emotional or Sensory Manipulation,Cuteness,Uses appealing design elements to create undue trust.
+Interface Interference,Emotional or Sensory Manipulation,Positive or Negative Framing,Obscures information through design choices that influence emotions.
+Interface Interference,Trick Questions,Trick Questions,Uses confusing wording or double negatives to manipulate user choices.
+Interface Interference,Choice Overload,Choice Overload,Presents too many options to make decision-making difficult.
+Interface Interference,Hidden Information,Hidden Information,Disguises relevant information to mislead users.
+Interface Interference,Language Inaccessibility,Wrong Language,Provides information in a language users may not understand.
+Interface Interference,Language Inaccessibility,Complex Language,Uses unnecessarily difficult language to obscure information.
+Interface Interference,Feedforward Ambiguity,Feedforward Ambiguity,Provides unclear information about the consequences of user actions.
+Forced Action,Nagging,Nagging,Repeatedly interrupts users to induce unwanted actions.
+Forced Action,Forced Continuity,Forced Continuity,Auto-renews subscriptions without clear consent or makes cancellation difficult.
+Forced Action,Forced Registration,Forced Continuity,Requires users to create accounts unnecessarily.
+Forced Action,Forced Communication or Disclosure,Privacy Zuckering,Tricks users into sharing more personal data than intended.
+Forced Action,Forced Communication or Disclosure,Friend Spam,Uses a user's contacts to send unwanted messages.
+Forced Action,Forced Communication or Disclosure,Address Book Leeching,Extracts contacts' data without clear consent.
+Forced Action,Forced Communication or Disclosure,Social Pyramid,Pressures users to recruit others to access benefits.
+Forced Action,Gamification,Pay-to-Play,Promises free functionality but later requires payment.
+Forced Action,Gamification,Grinding,Forces repetitive actions to unlock features or encourage purchases.
+Forced Action,Attention Capture,Auto-Play,Automatically plays new content to keep users engaged longer.
+Social Engineering,Scarcity or Popularity Claims,High Demand,Falsely suggests a product is in high demand to rush users into buying.
+Social Engineering,Scarcity and Popularity Claims,(Fake) Discount,(Fake) Discount uses Social Engineering and Scarcity and Popularity Claims to highlight or promote certain products over others. As a result users think they buy the product with the best value for the money luring them into quick and uninformed decisions to increase sales of a certain product.
+Social Engineering,Social Proof,Low Stock,Misleads users into thinking a product is scarce.
+Social Engineering,Social Proof,Endorsements and Testimonials,Uses biased or fake reviews to influence purchasing decisions.
+Social Engineering,Social Proof,Parasocial Pressure,Leverages influencers or celebrities to push a product with misleading implications.
+Social Engineering,Urgency,Activity Messages,Displays fake or misleading user activity to create a false sense of urgency.
